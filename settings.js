@@ -11,24 +11,24 @@ global.anticall = false
 global.prefa = [',','!','.','#','&']
 //above is a prefix for activating bot
 //false=disable and true=enable
-global.autoRecording = true //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoRecording = false //auto recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
 global.link = 'https://chat.whatsapp.com/LyFPHDvc5vMCglUFjv7Rlp'
-global.autoread = true //auto read messages
+global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti91 = false //auto block +91 
-global.autoswview = true //auto view status/story
+global.anti91 = false //auto block +233 
+global.autoswview = false //auto view status/story
 global.antilinkMode = true; // Default: disabled
 global.autostatusReact = false; // Default: disabled
-global.reactEmoji = '😂'; 
+global.reactEmoji = false; // Default: disabled'😂'; 
 /* ========== REACTION SYSTEM SETTINGS ========== */
 global.reactSettings = {
-  enabled: true, // Master switch
+  enabled: false, // Master switch
   emojis: ['❤️', '🔥', '👍', '😂', '😮'], // Reaction pool
   cooldown: new Map(), // Stores last reaction time per chat
   noReactZones: [ // Groups/channels where reactions are blocked
-    '120363301955930948@g.us' // QUEEN RUVA AI BETA group
+    '263777756184@s.whatsapp.net' // MIDKING AI BETA group
   ]
 };
 
