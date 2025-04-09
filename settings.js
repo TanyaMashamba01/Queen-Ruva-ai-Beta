@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263786115435"
-global.ownername = "𝚚𝚞𝚎𝚎𝚗-𝚛𝚞𝚟𝚊 𝙰𝙸"
-global.ownernumber = '263786115435'  //owner number 2
+global.ownernomer = "263716729222"
+global.ownername = "Joshuamambo1 NetKing"
+global.ownernumber = '263716729222'  //owner number 2
 
 //custom prefix
 global.anticall = false
-global.prefa = [',','!','.','#','&']
+global.prefa = [',','!']
 //above is a prefix for activating bot
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
-global.link = 'https://chat.whatsapp.com/LyFPHDvc5vMCglUFjv7Rlp'
+global.link = 'https://chat.whatsapp.com/IUAzVGi8DVX3ipWjgDO8AU'
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti91 = false //auto block +233 
